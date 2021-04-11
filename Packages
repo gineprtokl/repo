@@ -1,14 +1,14 @@
 Package: tk.protonytetv.ios7iconsforios13
-Architecture: iphoneos-arm
 Name: iOS 7 Icons For iOS 14
 Version: 2.0.1
+Architecture: iphoneos-arm
 Description: Bring Back The Old iOS 7 Icons For Your Modern iDevice!
-Depends: com.spark.snowboard
 Author: ProtonyteTV
 Section: Themes
 Maintainer: ProtonyteTV
 Filename: ./debs/tk.protonytetv.ios7iconsforios13.deb
 Depiction: https://gineprtokl.github.io/cydia/depictions/?p=tk.protonytetv.ios7iconsforios13
-Size: 719576
+Size: 719580
+MD5sum: 96cfde39963d50c6615348cf04b09590
 
 
