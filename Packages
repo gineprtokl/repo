@@ -3,7 +3,11 @@ Name: iOS 7 Icons For iOS 14
 Version: 2.0.1
 Architecture: iphoneos-arm
 Description: Bring Back The Old iOS 7 Icons For Your Modern iDevice!
-Author: ProtonyteTV <realktemgraphics9@gmail.com>
+Author: ProtonyteTV
 Section: Themes
-Maintainer: ProtonyteTV <realktemgraphics9@gmail.com>
+Maintainer: ProtonyteTV
+Filename: ./debs/tk.protonytetv.ios7iconsforios13
+Depiction: https://gineprtokl.github.io/cydia/depictions/tk.protonytetv.ios7iconsforios13
+Size: 742672
+MD5sum: 780f029366cf89d238e368427b644098
 

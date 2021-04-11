@@ -1,0 +1,14 @@
+<changelog>
+	<changes>
+		<version>2.0.1</version>
+		<change>-Fixes Some Wrong Icon Size</change>
+		<change>-Added New Icons Find My iPhone Icon For iOS 14 ,13 , Facebook , Messenger , Reddit , YouTube</change>
+		<change>-Bringing Back iOS 12.3 TV icon</change>
+		<change>-Initial Support For iOS 14</change>
+		<change>Removed Dependencies</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial Release For iOS 13</change>
+	</changes>
+</changelog>

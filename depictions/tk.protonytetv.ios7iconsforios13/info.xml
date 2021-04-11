@@ -1,0 +1,31 @@
+<package>
+	<id>tk.protonytetv.ios7iconsforios13</id>
+	<name>iOS 7 Icons For iOS 14</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Bring Back The Old iOS 7 Icons For Your Modern iDevice!</shortDescription>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>-Fixes Some Wrong Icon Size</change>
+		<change>-Added New Icons Find My iPhone Icon For iOS 14 ,13 , Facebook , Messenger , Reddit , YouTube</change>
+		<change>-Bringing Back iOS 12.3 TV icon</change>
+		<change>-Initial Support For iOS 14<change>
+		<change>Removed Dependencies<change>
+	</changelog>
+	<links>
+		<link>
+			<name>ProtonyteTV Twitter</name>
+			<url>https://twitter.com/ProtonyteTV</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
