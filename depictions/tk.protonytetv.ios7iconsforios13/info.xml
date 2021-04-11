@@ -1,45 +1,39 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>tk.protonytetv.ios7iconsforios13.deb</id>
+	<name>iOS 7 Icons For iOS 14</name>
+	<version>2.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>9.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>com.spark.snowboard</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Bring Back iOS 7 Icons For You're Modern iDevice</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
+		<description>Take a look back what ios 7 looks like</description>
 		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<description>Some screenshots</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>2.0.1 (November 21, 2020 Release)</change>
+		<change>-Fixes Some Wrong Icon Size</change>
+		<change>-Added New Icons Find My iPhone Icon For iOS 14 ,13 , Facebook , Messenger , Reddit , YouTube</change>
+		<change>-Bringing Back iOS 12.3 TV icon</change>
+		<change>-Initial Support For iOS 14</change>
+		<change>Removed Dependencies</change>
 	</changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<url>https://www.twitter.com/ProtonyteTV</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 	</links>
 </package>
