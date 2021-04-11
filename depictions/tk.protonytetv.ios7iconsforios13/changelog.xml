@@ -9,6 +9,14 @@
 	</changes>
 	<changes>
 		<version>1.0</version>
+		<change>-Added 2 new icons</change>
+		<change>-Added iOS 7 Newsstand icon for apple news</change>
+		<change>-Bringing back iOS 11 tv icon</change>
+		<change>-s0n iOS 7 status bar</change>
+	</changes>
+	<change>
+		<version>0.1 (Feb 19, 2020)</version>
+		<change>-Added 24 Icons</change>
 		<change>Initial Release For iOS 13</change>
 	</changes>
 </changelog>
