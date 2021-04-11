@@ -1,0 +1,8 @@
+Origin: ProtonyteTV Repo
+Label: ProtonyteTV Repo
+Suite: beta
+Version: 1.0
+Codename: iOS
+Architectures: iphoneos-arm
+Components: main
+Description: ProtonyteTV Official Repo
