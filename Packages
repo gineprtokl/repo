@@ -1,28 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: tk.protonytetv.ios7iconsforios13
+Version: 2.0.1
+Section: Themes
+Maintainer: ProtonyteTV <gineprt0kl@gmail.com>
+Depends: firmware (>9.0), com.spark.snowboard | com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/tk.protonytetv.ios7iconsforios13.deb
+Size: 719580
+MD5sum: 96cfde39963d50c6615348cf04b09590
+Description: take a look back what ios 7 looks like. Firmware should be greater than 9.0
+Name: iOS 7 Icons For iOS 14
+Author: ProtonyteTV <gineprt0kl@gmail.com>
+Depiction: https://gineprtokl.github.io/repo/depictions/?p=tk.protonytetv.ios7iconsforios13
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
