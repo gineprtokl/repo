@@ -1,8 +1,8 @@
 Origin: ProtonyteTV Repo
-Label: ProtonyteTV Repo
+Label: Dubdub21 06/07
 Suite: beta
-Version: 1.0
-Codename: iOS
+Version: 0.1
+Codename: ProtonyteTV
 Architectures: iphoneos-arm
 Components: main
-Description: ProtonyteTV Official Repo
+Description: ProtonyteTV's Official Repo

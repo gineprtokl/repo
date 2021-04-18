@@ -6,6 +6,11 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
+			<name>Check out my Website</name>
+			<url>https://protonytetv.tk/index.html</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
 			<name>Credits to supermamon!</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
