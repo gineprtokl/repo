@@ -7,6 +7,9 @@ Architecture: iphoneos-arm
 Filename: ./debs/tk.protonytetv.ios7iconsforios13.deb
 Size: 743030
 MD5sum: 63a3c5c025be6ac17055f2a627ec100f
+SHA1: b5d5d9749fd025eb441210800d788881ede9a09c
+SHA256: 8d079dc41d21d8c8d669df928e6f80ffcaba8afdd06c3eb813169cdcff1626bc
+SHA512: d38d7ee40b15c39c93ecfe8b93ee4dce2ee249ac4582fdc072ab6f9fe0ef965f4500a7068cffe5031311176dee36a7ff346bc82ea64dd4d783403f8436e0ee51
 Description: take a look back what ios 7 looks like. Firmware should be greater than 9.0
 Name: iOS 7 Icons For iOS 14
 Author: ProtonyteTV <gineprt0kl@gmail.com>
