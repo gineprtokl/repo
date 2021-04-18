@@ -5,8 +5,8 @@ Maintainer: ProtonyteTV <gineprt0kl@gmail.com>
 Depends: firmware (>9.0), com.spark.snowboard | com.anemonetheming.anemone
 Architecture: iphoneos-arm
 Filename: ./debs/tk.protonytetv.ios7iconsforios13.deb
-Size: 719580
-MD5sum: 96cfde39963d50c6615348cf04b09590
+Size: 743030
+MD5sum: 63a3c5c025be6ac17055f2a627ec100f
 Description: take a look back what ios 7 looks like. Firmware should be greater than 9.0
 Name: iOS 7 Icons For iOS 14
 Author: ProtonyteTV <gineprt0kl@gmail.com>
